@@ -1,6 +1,6 @@
 on:
   repository_dispatch:
-    types: [test_result]
+    types: [asdf_fdsa]
 
 jobs:
   run_if_failure:
